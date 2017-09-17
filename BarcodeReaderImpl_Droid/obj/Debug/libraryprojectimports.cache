@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\__library_projects__\Honeywell.AIDC.CrossPlatform.BarcodeReader\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Honeywell.AIDC.CrossPlatform.BarcodeReader\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\__library_projects__\Honeywell.AIDC.CrossPlatform.BarcodeReader.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

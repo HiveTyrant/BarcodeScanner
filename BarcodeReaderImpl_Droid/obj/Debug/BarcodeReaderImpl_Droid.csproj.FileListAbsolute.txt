@@ -1,0 +1,17 @@
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderImpl_Droid.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderImpl_Droid.pdb
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderImpl_Droid.BarcodeReaderImpl_Droid.apk
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderImpl_Droid.BarcodeReaderImpl_Droid-Signed.apk
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderAbstractions.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\DataCollectionLib.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\Honeywell.AIDC.CrossPlatform.BarcodeReader.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderAbstractions.pdb
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\Honeywell.AIDC.CrossPlatform.BarcodeReader.xml
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\BarcodeReaderImpl_Droid.csprojResolveAssemblyReference.cache
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\BarcodeReaderImpl_Droid.csproj.CoreCompileInputs.cache
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\BarcodeReaderImpl_Droid.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\BarcodeReaderImpl_Droid.pdb
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\android\bin\BarcodeReaderImpl_Droid.BarcodeReaderImpl_Droid.apk
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\R.cs.flag
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\obj\Debug\uploadflags.txt
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\BarcodeReaderImpl_Droid\bin\Debug\BarcodeReaderImpl_Droid.dll.mdb

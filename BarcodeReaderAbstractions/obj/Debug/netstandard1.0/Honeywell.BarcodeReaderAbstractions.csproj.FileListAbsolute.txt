@@ -1,0 +1,8 @@
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\obj\Debug\netstandard1.0\Honeywell.BarcodeReaderAbstractions.csprojResolveAssemblyReference.cache
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\obj\Debug\netstandard1.0\Honeywell.BarcodeReaderAbstractions.csproj.CoreCompileInputs.cache
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\obj\Debug\netstandard1.0\Honeywell.BarcodeReaderAbstractions.AssemblyInfo.cs
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\bin\Debug\netstandard1.0\BarcodeReaderAbstractions.deps.json
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\bin\Debug\netstandard1.0\BarcodeReaderAbstractions.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\bin\Debug\netstandard1.0\BarcodeReaderAbstractions.pdb
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\obj\Debug\netstandard1.0\BarcodeReaderAbstractions.dll
+D:\Project\SVN\PlusFlex\Test\NIP\Xamarin\BarcodeScanner\Honeywell.BarcodeReaderAbstractions\obj\Debug\netstandard1.0\BarcodeReaderAbstractions.pdb

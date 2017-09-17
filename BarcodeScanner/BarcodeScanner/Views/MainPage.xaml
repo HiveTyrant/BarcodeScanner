@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BarcodeScanner"
+             xmlns:viewModels="clr-namespace:BarcodeScanner.ViewModels;assembly=BarcodeScanner"
+             x:Class="BarcodeScanner.MainPage">
+
+    <ContentPage.BindingContext>
+        <viewModels:MainPageViewModel/>
+    </ContentPage.BindingContext>
+
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+        <Label Text="{Binding BarcodeDataText, StringFormat='Barcode: {0}'}" Margin="10,0,0,0" HorizontalOptions="StartAndExpand" VerticalOptions="Center" TextColor="Black"/>
+        <Label Text="{Binding BarcodeSymbology, StringFormat='Symbology: {0}'}" Margin="10,0,0,0" HorizontalOptions="StartAndExpand" VerticalOptions="Center" TextColor="Black"/>
+        <Label Text="{Binding ScanTime, StringFormat='Timestamp: {0:yyyyMMdd HH:mm:ss.fff}'}" Margin="10,0,0,0" HorizontalOptions="StartAndExpand" VerticalOptions="Center" TextColor="Black"/>
+        <Label Text="{Binding StatusMessage}" Margin="10,20,0,0" HorizontalOptions="StartAndExpand" VerticalOptions="Center" TextColor="Black"/>
+    </StackLayout>
+
+</ContentPage>
